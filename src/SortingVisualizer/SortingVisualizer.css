@@ -1,8 +1,6 @@
 .array-container {
-  /* position: absolute; */
-  margin: 10px;
   padding: 10px;
-  max-width: 400px !important;
+  max-width: 340px !important;
 }
 
 .array-bar {
@@ -25,9 +23,9 @@
 }
 
 .header h1 {
-  font-size: 2rem !important;
+  font-size: 1.8rem !important;
 }
 
 .refeshButton {
-  margin-bottom: 1rem;
+  margin-bottom: 7rem;
 }
